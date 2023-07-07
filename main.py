@@ -119,4 +119,4 @@
 #     if max_debt < total_debt:
 #         max_debt = total_debt
 #         user_max_debt = item
-# print(f"{user_max_debt} -- {max_debt}")
+# print(f"Найбільший кредит: {user_max_debt} -- {max_debt}")
